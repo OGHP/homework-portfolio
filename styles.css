@@ -25,3 +25,8 @@ font-family, background, and text-decoration */
 p{
   font-family: sans-serif;
 }
+
+body {
+margin: 20;
+border: 40px solid #ffffff;
+}

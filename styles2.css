@@ -1,0 +1,55 @@
+h1 {
+  font-family: fantasy;
+  text-align: center;  
+  text-decoration: underline;
+}
+
+.experience {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.portfolio {
+  font-family: sans-serif;
+  text-align: left; 
+}
+
+h3 {
+  letter-spacing: 2px;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+li{
+  font-family: sans-serif;
+}
+
+p.resume_indent {
+  text-indent: 40px;
+}
+
+.relaxr{
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+.citipix{
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+body {
+margin: 20;
+border: 40px solid #ffffff;
+}
+
+/* you can use #000000/#ffffff as another way to code color */
+
+footer {
+  text-align: center;
+  font-size: 10px;
+}
