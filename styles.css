@@ -1,7 +1,27 @@
- h1 {
-      color: red;
-      font-size: 30px;
-      text-align: center;
-    }
 
+h1 {
+  font-family: fantasy;
+  text-align: center;  
+  text-decoration: underline;
+}
 
+img{
+  float: right;
+}
+
+#lovecoding {
+  color: black;
+  background: teal;
+  font-size: 20px; 
+  font-family: sans-serif;
+  background-position: center;
+  text-align: center;
+  font-style: bold;
+}
+
+/* fulfills technical requirement of css properties: font-size, font-color, 
+font-family, background, and text-decoration */
+
+p{
+  font-family: sans-serif;
+}
